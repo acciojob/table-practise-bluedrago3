@@ -1,6 +1,6 @@
 table{
 	background:yellow;
-	border:solid black 2px;
+	border:1px solid rgb(0, 0, 0);
 	
 }
 tr,td,th{
